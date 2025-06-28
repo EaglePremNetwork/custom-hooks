@@ -22,3 +22,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+#Snapshots
+custom-hooks-1.jpg
+custom-hooks-2.jpg
+custom-hooks-3.jpg
+custom-hooks-4.jpg
